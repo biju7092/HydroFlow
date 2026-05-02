@@ -1,0 +1,8 @@
+{
+  "name": "HydroFlow",
+  "description": "A refreshing water tracking app with customizable reminders and progress visualization to keep you hydrated.",
+  "requestFramePermissions": [
+    "notifications"
+  ],
+  "majorCapabilities": []
+}
